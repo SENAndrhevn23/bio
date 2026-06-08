@@ -41,6 +41,17 @@ If you'd like to contact me, feel free to send me a message on Discord:
 
 My DMs are usually open.
 
+### 💬 Discord Status Guide
+
+If you're trying to contact me, here's what my Discord status usually means:
+
+* 🟢 **Could Be Online** — I may be around, but I might not respond immediately.
+* 🔴 **Online** — I'm active and will likely see your message.
+* 🌙 **AFK / Shower / Busy** — I'm away from my device or occupied with something.
+* ⚫️ **Offline / Sleeping** — I'm not available right now and may respond later.
+
+Please be patient if I don't reply immediately. I'll get back to you when I can.
+
 ---
 
 # 🌐 Social Links
